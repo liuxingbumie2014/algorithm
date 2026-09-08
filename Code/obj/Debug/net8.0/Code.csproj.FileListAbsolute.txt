@@ -1,0 +1,15 @@
+C:\Work\Test\C#\algorithm\Code\bin\Debug\net8.0\Code.exe
+C:\Work\Test\C#\algorithm\Code\bin\Debug\net8.0\Code.deps.json
+C:\Work\Test\C#\algorithm\Code\bin\Debug\net8.0\Code.runtimeconfig.json
+C:\Work\Test\C#\algorithm\Code\bin\Debug\net8.0\Code.dll
+C:\Work\Test\C#\algorithm\Code\bin\Debug\net8.0\Code.pdb
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\Code.AssemblyInfo.cs
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\Code.sourcelink.json
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\Code.dll
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\refint\Code.dll
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\Code.pdb
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
+C:\Work\Test\C#\algorithm\Code\obj\Debug\net8.0\ref\Code.dll
