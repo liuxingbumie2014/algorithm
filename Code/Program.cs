@@ -1,9 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using Code.hot100;
-using Code.Sort;
+using Code.hot100.hashTable;
 
-var nums = new[] { 2, 7, 11, 15 };
-var target = 9;
-var res = TwoSum.Solution(nums,target);
-Console.WriteLine(string.Join(",", res));
+var input = new string[] { "bdddddddddd", "bbbbbbbbbbc"};
+// var input = new string[] { "eat", "tea", "tan", "ate", "nat", "bat" };
+var res = GroupAnagrams.Solution(input);
+foreach (var strs in res)
+{
+    Console.WriteLine(string.Join(",",strs));
+}

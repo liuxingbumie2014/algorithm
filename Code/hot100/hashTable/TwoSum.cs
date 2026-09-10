@@ -1,4 +1,4 @@
-namespace Code.hot100;
+namespace Code.hot100.hashTable;
 
 public class TwoSum
 {
